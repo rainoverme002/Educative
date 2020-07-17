@@ -79,4 +79,4 @@ Security concern:
 ### JWT
 
 - a way to securely exchange data between two clients
-- you could store a JWT in a cookie, localStorage or even in memory 
+- you could store a JWT in a cookie, localStorage or even in memory
