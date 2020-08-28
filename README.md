@@ -8,8 +8,8 @@ Summary of the online courses that I've taken
 
 ## List of Courses
 
-[Web Application Security](https://www.educative.io/courses/web-application-security-everyday-software-engineer)
-[Web Architecture 101](https://www.educative.io/courses/web-application-software-architecture-101)
+- [Web Application Security](https://www.educative.io/courses/web-application-security-everyday-software-engineer)
+- [Web Architecture 101](https://www.educative.io/courses/web-application-software-architecture-101)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
